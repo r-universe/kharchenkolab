@@ -1,0 +1,26 @@
+[
+  {
+    "package": "conos",
+    "oncran": true
+  },
+  {
+    "package": "leidenAlg",
+    "oncran": true
+  },
+  {
+    "package": "N2R",
+    "oncran": true
+  },
+  {
+    "package": "pagoda2",
+    "oncran": true
+  },
+  {
+    "package": "sccore",
+    "oncran": true
+  },
+  {
+    "package": "vrnmf",
+    "oncran": true
+  }
+]
