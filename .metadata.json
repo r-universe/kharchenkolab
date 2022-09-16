@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "numbat",
+    "oncran": true
+  },
+  {
     "package": "pagoda2",
     "oncran": true
   },

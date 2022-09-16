@@ -18,6 +18,11 @@
 	url = https://github.com/kharchenkolab/n2r
 	shallow = true
 	registered = true
+[submodule "numbat"]
+	path = numbat
+	url = https://github.com/kharchenkolab/numbat
+	shallow = true
+	registered = true
 [submodule "pagoda2"]
 	path = pagoda2
 	url = https://github.com/kharchenkolab/pagoda2
