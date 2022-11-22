@@ -24,6 +24,10 @@
     "oncran": true
   },
   {
+    "package": "scistreer",
+    "oncran": true
+  },
+  {
     "package": "vrnmf",
     "oncran": true
   }

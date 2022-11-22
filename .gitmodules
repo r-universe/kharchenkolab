@@ -33,6 +33,11 @@
 	url = https://github.com/kharchenkolab/sccore
 	shallow = true
 	registered = true
+[submodule "scistreer"]
+	path = scistreer
+	url = https://github.com/kharchenkolab/scistreer
+	shallow = true
+	registered = true
 [submodule "vrnmf"]
 	path = vrnmf
 	url = https://github.com/kharchenkolab/vrnmf
