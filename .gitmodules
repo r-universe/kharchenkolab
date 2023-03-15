@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "vrnmf"]
-	path = vrnmf
-	url = https://github.com/kharchenkolab/vrnmf
+[submodule "conos"]
+	path = conos
+	url = https://github.com/kharchenkolab/conos
 	shallow = true
 	registered = true
 [submodule "leidenAlg"]
@@ -13,19 +13,19 @@
 	url = https://github.com/kharchenkolab/leidenalg
 	shallow = true
 	registered = true
-[submodule "pagoda2"]
-	path = pagoda2
-	url = https://github.com/kharchenkolab/pagoda2
-	shallow = true
-	registered = true
 [submodule "N2R"]
 	path = N2R
 	url = https://github.com/kharchenkolab/n2r
 	shallow = true
 	registered = true
-[submodule "conos"]
-	path = conos
-	url = https://github.com/kharchenkolab/conos
+[submodule "numbat"]
+	path = numbat
+	url = https://github.com/kharchenkolab/numbat
+	shallow = true
+	registered = true
+[submodule "pagoda2"]
+	path = pagoda2
+	url = https://github.com/kharchenkolab/pagoda2
 	shallow = true
 	registered = true
 [submodule "sccore"]
@@ -38,8 +38,8 @@
 	url = https://github.com/kharchenkolab/scistreer
 	shallow = true
 	registered = true
-[submodule "numbat"]
-	path = numbat
-	url = https://github.com/kharchenkolab/numbat
+[submodule "vrnmf"]
+	path = vrnmf
+	url = https://github.com/kharchenkolab/vrnmf
 	shallow = true
 	registered = true

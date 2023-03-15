@@ -1,6 +1,6 @@
 [
   {
-    "package": "vrnmf",
+    "package": "conos",
     "oncran": true
   },
   {
@@ -8,15 +8,15 @@
     "oncran": true
   },
   {
-    "package": "pagoda2",
-    "oncran": true
-  },
-  {
     "package": "N2R",
     "oncran": true
   },
   {
-    "package": "conos",
+    "package": "numbat",
+    "oncran": true
+  },
+  {
+    "package": "pagoda2",
     "oncran": true
   },
   {
@@ -28,7 +28,7 @@
     "oncran": true
   },
   {
-    "package": "numbat",
+    "package": "vrnmf",
     "oncran": true
   }
 ]
