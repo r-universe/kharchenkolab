@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "N2R"]
+	path = N2R
+	url = https://github.com/kharchenkolab/n2r
 [submodule "conos"]
 	path = conos
 	url = https://github.com/kharchenkolab/conos
 [submodule "leidenAlg"]
 	path = leidenAlg
 	url = https://github.com/kharchenkolab/leidenalg
-[submodule "N2R"]
-	path = N2R
-	url = https://github.com/kharchenkolab/n2r
 [submodule "numbat"]
 	path = numbat
 	url = https://github.com/kharchenkolab/numbat
