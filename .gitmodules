@@ -11,6 +11,10 @@
 [submodule "leidenAlg"]
 	path = leidenAlg
 	url = https://github.com/kharchenkolab/leidenalg
+[submodule "lstar"]
+	path = lstar
+	url = https://github.com/kharchenkolab/lstar
+	subdir = R
 [submodule "numbat"]
 	path = numbat
 	url = https://github.com/kharchenkolab/numbat
